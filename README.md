@@ -1,1 +1,1 @@
-# Hafta-18
+# Patika+ FullStack Web Developer Programı 18. Hafta Pratikleri ve Ödevleri
